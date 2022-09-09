@@ -2,11 +2,7 @@
 - 👀 I’m interested in food, tech and uh.. your mom UwU
 - 🌱 I’m currently learning discord.js and python
 - 💞️ I’m looking to collaborate on simple and useful discord.js projects and arduino projects
-- 📫 How to reach me -> mail: as.lokeeshwar@gmail.com; Discord: Lokii#2011
-
-<html>
-  <iframe src="https://widget.billboard.com/hot-100/2022/09/10/70" style="border:none;" name="Billboard Charts" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="540px" width="620px" allowfullscreen></iframe>
-</html>
+- 📫 How to reach me -> discord: Lokii#2011
 
 <!---
 aslokeeshwar/aslokeeshwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
