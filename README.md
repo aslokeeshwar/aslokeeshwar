@@ -20,7 +20,7 @@ I have an unhealthy obsession with coffee and music, here's my [Last.fm](https:/
 ---
 
 <p align="center">
-   <a href="https://personal-website-monochromish.vercel.app/" target="_blank" rel="nofollow">
+   <a href="https://bit.ly/3h7QTP8/" target="_blank" rel="nofollow">
       boop boop boop...
    </a>
 </p>
