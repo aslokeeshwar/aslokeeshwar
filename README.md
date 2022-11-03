@@ -20,8 +20,8 @@ I have an unhealthy obsession with coffee and music, here's my [Last.fm](https:/
 ---
 
 <p align="center">
-   <a href="https://bit.ly/3h7QTP8/" target="_blank" rel="nofollow">
-      boop boop boop...
+   <a href="https://bit.ly/3h7QTP8" target="_blank" rel="nofollow">
+      click here to see what i do every day!
    </a>
 </p>
 
