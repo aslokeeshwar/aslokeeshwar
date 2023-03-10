@@ -26,3 +26,7 @@ I have an unhealthy obsession with coffee and music, here's my [Last.fm](https:/
 </p>
 
 ---
+<a href="https://github.com/Monochromish/lastfm-profile-readme">
+   <img src="https://lastfm-profile-readme.vercel.app/api/lokidoki_?color=25332E&textColor=D8D8D8&isRounded=true" align="right"/>
+   
+---
