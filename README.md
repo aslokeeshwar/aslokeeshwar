@@ -2,8 +2,8 @@
 
 i'm loki.
 
-I am a 16 year old student, a designer and Arduino programmer, and a tech enthusiast.
-I love to spend time just messing around with very cool projects like a Neopixel light bar for my workspace.
+I am a 17 year old student, a 3D designer and Arduino programmer, and a tech enthusiast.
+~~I love to spend time just messing around with very cool projects like a Neopixel light bar for my workspace.~~ I have no goddamn time to do anything other than study.
 I have an unhealthy obsession with coffee and music, here's my [Last.fm](https://www.last.fm/user/lokidoki_).
 
 <a href="https://discord.com/users/554634482817171466">
@@ -14,8 +14,8 @@ I have an unhealthy obsession with coffee and music, here's my [Last.fm](https:/
 
 ### More about me
 
-* bogged down with life desicions
-* physics finna be the end of me
+* i can't do the most basic arithmetic, yet i made multiple programs from scratch. 
+* football is my luv <3
 
 ---
 
