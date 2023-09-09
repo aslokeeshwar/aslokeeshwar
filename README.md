@@ -17,6 +17,8 @@ _*I have no goddamn time to do anything other than study.*_
 
 * i can't do the most basic arithmetic, yet i made multiple programs from scratch. 
 * football is my luv <3
+* archery is my newfound passion
+* i aspire to become a biomechanical engineer, and create a startup that caters to surgical problems, solved with engineering.
 
 ---
 
