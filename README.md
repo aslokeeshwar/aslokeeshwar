@@ -24,7 +24,7 @@ i'm loki.
 
 * if you can't see what i'm listening to, here's my lastfm.
 
-<a href="https://last.fm/lokidoki_">
+<a href="https://www.last.fm/user/lokidoki_">
    <img src="https://lastfm-profile-readme.vercel.app/api/lokidoki_?color=25332E&textColor=D8D8D8&isRounded=true" align="center" width="400" height="200"/>
    
 ---
