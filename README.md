@@ -1,30 +1,27 @@
-### hola :)
+<h1 align="center">Hi 👋, I'm Lokeeshwar (loki)</h1>
+<h3 align="center">A passionate biomedical engineering student from India</h3>
 
-i'm loki.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aslokeeshwar&label=Profile%20views&color=0e75b6&style=flat" alt="aslokeeshwar" /> </p>
 
-- I am a 18 year old student, a 3D designer and Arduino programmer, and a tech enthusiast.
-- I study at MIT Manipal, pursuing biomedical engineering.
-- ~~I love to spend time just messing around with very cool projects like a Neopixel light bar for my workspace.~~
-- I have an unhealthy obsession with coffee and music, here's my [Last.fm](https://www.last.fm/user/lokidoki_).
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslokeeshwar" alt="aslokeeshwar" /></a> </p>
 
-<a href="https://discord.com/users/554634482817171466">
-   <img src="https://lanyard.cnrad.dev/api/554634482817171466?hideTimestamp=true&idleMessage=UwU" align="right" />
-</a>
+- 🔭 I’m currently working on **my engineering degree ;)**
 
----
+- 🌱 I’m currently learning **Python, reactive web design, micro electronics.**
 
-### More about me
+- 📫 How to reach me **lokeeshwar@outlook.com**
 
-* i can't do the most basic arithmetic, yet i made multiple programs from scratch. 
-* football is my luv <3
-* archery is my newfound passion
-* i aspire to become a biomedical engineer, and create a startup that caters to surgical and prosthetic problems, solved with engineering.
+- 📄 Know about my experiences [https://www.linkedin.com/in/lokeeshwarsridhar-7b862521b](https://www.linkedin.com/in/lokeeshwarsridhar-7b862521b)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lokeeshwarsridhar-7b862521b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokeeshwarsridhar-7b862521b" height="30" width="40" /></a>
+<a href="https://instagram.com/as.lokeeshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="as.lokeeshwar" height="30" width="40" /></a>
+</p>
 
-* if you can't see what i'm listening to, here's my lastfm.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<a href="https://www.last.fm/user/lokidoki_">
-   <img src="https://lastfm-profile-readme.vercel.app/api/lokidoki_?color=25332E&textColor=D8D8D8&isRounded=true" align="center" width="400" height="200"/>
-   
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslokeeshwar&show_icons=true&locale=en&layout=compact" alt="aslokeeshwar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslokeeshwar&show_icons=true&locale=en" alt="aslokeeshwar" /></p>
